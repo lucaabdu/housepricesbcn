@@ -4,6 +4,6 @@ The "Script per grafico.R" file is a simple web scraper that queries the data fr
 
 The "bcn_house_prices_last...years.csv" files are the output of the R script. 
 
-Finally, the "ExcelPerGrafici.xlsx" is the Excel file that queries the .csvs and generates a user friendly chart.
+Finally, the "real_estate_in_bcn.pbix" is the PowerBI report that queries the .csvs and generates a user friendly chart.
 
 
